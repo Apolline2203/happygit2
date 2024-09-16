@@ -1,0 +1,17 @@
+---
+title: "test"
+output: github_document
+    
+---
+###nouvelle analyse
+```{r}
+plot(cars)
+```
+voici le graph cars
+
+```{r}
+plot(iris)
+```
+Voici le graph de iris
+
+
